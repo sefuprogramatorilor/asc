@@ -1,0 +1,15 @@
+C:\asc2022\convertire\convertire\bin\Debug\net6.0\convertire.exe
+C:\asc2022\convertire\convertire\bin\Debug\net6.0\convertire.deps.json
+C:\asc2022\convertire\convertire\bin\Debug\net6.0\convertire.runtimeconfig.json
+C:\asc2022\convertire\convertire\bin\Debug\net6.0\convertire.dll
+C:\asc2022\convertire\convertire\bin\Debug\net6.0\convertire.pdb
+C:\asc2022\convertire\convertire\obj\Debug\net6.0\convertire.csproj.AssemblyReference.cache
+C:\asc2022\convertire\convertire\obj\Debug\net6.0\convertire.GeneratedMSBuildEditorConfig.editorconfig
+C:\asc2022\convertire\convertire\obj\Debug\net6.0\convertire.AssemblyInfoInputs.cache
+C:\asc2022\convertire\convertire\obj\Debug\net6.0\convertire.AssemblyInfo.cs
+C:\asc2022\convertire\convertire\obj\Debug\net6.0\convertire.csproj.CoreCompileInputs.cache
+C:\asc2022\convertire\convertire\obj\Debug\net6.0\convertire.dll
+C:\asc2022\convertire\convertire\obj\Debug\net6.0\refint\convertire.dll
+C:\asc2022\convertire\convertire\obj\Debug\net6.0\convertire.pdb
+C:\asc2022\convertire\convertire\obj\Debug\net6.0\convertire.genruntimeconfig.cache
+C:\asc2022\convertire\convertire\obj\Debug\net6.0\ref\convertire.dll
